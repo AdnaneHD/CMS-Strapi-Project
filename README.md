@@ -1,3 +1,3 @@
-# CMS-Strapi-Project
+# CMS-Strapi-Project  projet personnelle
 
-En coure de dev
+En coure de devlopment 
